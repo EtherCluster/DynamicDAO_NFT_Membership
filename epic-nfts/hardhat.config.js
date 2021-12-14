@@ -22,8 +22,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
    solidity: '0.8.0',
    networks: {
      rinkeby: {
-       url: 'YOUR_ALCHEMY_API_URL',
-       accounts: ['YOUR_PRIVATE_R8888888888888666666666666666uklglfv88888888EBY_ACCOUNT_KEY'],
-     },it
+    DELETED
+     },
    },
  };
